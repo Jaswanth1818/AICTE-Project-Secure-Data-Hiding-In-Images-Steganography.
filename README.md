@@ -39,8 +39,5 @@ The Image-Based Steganography Tool** is a Python application that allows users t
 - Implement **stronger encryption methods** for added security  
 
  🤝 Contributing  
-Contributions are welcome! Feel free to fork this repository and submit a pull request.  
-
-
-Let me know if you need any modifications! 🚀
+Contributions are welcome! Feel free to fork this repository and submit a pull request. 
 
